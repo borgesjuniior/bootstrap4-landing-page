@@ -1,0 +1,8 @@
+.img-container {
+  object-fit: cover;
+  height: 30rem;
+}
+
+.carousel-title {
+  font-family: 'Pacifico', cursive;
+}
