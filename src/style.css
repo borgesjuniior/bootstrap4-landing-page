@@ -1,3 +1,6 @@
+.card-width {
+  width: 18rem;
+}
 .img-container {
   object-fit: cover;
   height: 30rem;
@@ -14,4 +17,8 @@
 .btn-color {
   background-color: rgb(73, 236, 73);
   color: rgb(255, 255, 255);
+}
+
+.img-fit {
+  height: 200px;
 }
